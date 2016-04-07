@@ -1,4 +1,6 @@
 <?php
+
+  namespace iSpeech;
   
   // iSpeech PHP Script (2013-04-09), version 0.6 (beta)
   // Requires the cURL PHP extension
