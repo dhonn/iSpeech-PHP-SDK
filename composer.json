@@ -1,5 +1,5 @@
 {
-    "name": "dhonn/iSpeech-PHP-SDK",
+    "name": "dhonn/ispeech-php-sdk",
     "autoload": {
         "psr-0": {
                 "iSpeech" : "."
